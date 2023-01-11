@@ -6,3 +6,4 @@ hello git!
 hello git!master test2
 GitHub修改了！
 huansanjianfa by lhc
+agree update by 岳不群
